@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/Soutak1984/duco_pool/main/getpool.json
